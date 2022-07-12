@@ -1,3 +1,5 @@
+################## FOR TAGGING ####################
+
 locals {
   product_name = "test"
   env          = var.env
