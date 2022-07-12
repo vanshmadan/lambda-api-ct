@@ -1,3 +1,4 @@
+################ EVENTBRIDGE FOR SNS ###################
 module "createrule" {
     source                  = "../modules/eventbridge"
     rule_name               = "object_rule-${var.env}"
