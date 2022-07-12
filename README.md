@@ -37,7 +37,8 @@ Resource which will be created
 - Cloudtrail
 - Evenrule
 
-File/content upload using api gateway url
+File/content upload using api endpoint
+
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/31353777/178599479-e54302ac-a262-4ce9-a3ee-e4080ea7b901.png">
 
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/31353777/178599562-419d5598-05f1-4dd8-ac4a-64557bdc21f9.png">
