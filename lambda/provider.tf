@@ -6,7 +6,7 @@
 
 provider "aws" {
   region                  = "ap-south-1"
-  shared_credentials_file = var.shared_credentials_file
+  shared_credentials_file = var.shared_credentials_file ### It will be stored in github secrets
   profile                 = var.profile
 }
 
