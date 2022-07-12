@@ -30,7 +30,7 @@ terraform apply
 
 Resource which will be created
 - IAM Roles
-- IAM POLICY
+- IAM Policy
 - Lambda function
 - Api Gateway
 - SNS topic
@@ -38,7 +38,9 @@ Resource which will be created
 - Evenrule
 
 File/content upload using api gateway url
+<img width="852" alt="image" src="https://user-images.githubusercontent.com/31353777/178599479-e54302ac-a262-4ce9-a3ee-e4080ea7b901.png">
 
-<img width="826" alt="image" src="https://user-images.githubusercontent.com/31353777/178599256-4eddb25b-fe07-4423-b8a8-99e7a6161244.png">
+<img width="1278" alt="image" src="https://user-images.githubusercontent.com/31353777/178599562-419d5598-05f1-4dd8-ac4a-64557bdc21f9.png">
+
 
 
