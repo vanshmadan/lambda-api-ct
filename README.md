@@ -23,7 +23,7 @@ terraform init
 terraform plan
 ```
 
-### Step 2 : Finally, run terraform apply
+### Step 4 : Finally, run terraform apply
 ```bash
 terraform apply
 ```
