@@ -18,7 +18,7 @@ git clone <repo-url>
 terraform init
 ```
 
-### Step 2 : Run terraform plan
+### Step 3 : Run terraform plan
 ```bash
 terraform plan
 ```
