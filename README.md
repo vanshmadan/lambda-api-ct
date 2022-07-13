@@ -45,7 +45,6 @@ File/content upload using api endpoint
 
 <img width="1110" alt="image" src="https://user-images.githubusercontent.com/31353777/178600113-dc98e035-2eb1-4d9d-893a-8c0353b51501.png">
 
-<img width="1425" alt="image" src="https://user-images.githubusercontent.com/31353777/178717255-3a42b6ac-e80d-41b2-8fb4-3aae54fad30e.png">
 
 
 
