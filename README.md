@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Installation of terraform.
-- Aws accout with credentials/roles
+- Aws accout with credentials/role
 
 ## Procedure
 
